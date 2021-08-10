@@ -4,7 +4,7 @@
 ### Abstract
 
 - 📙 Graduating in control and automation engineering.
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, C++
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT and C++
 - 🤔 I’m looking for help with JAVASCRIPT, CSS
 
 
